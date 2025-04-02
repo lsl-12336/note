@@ -1,2 +1,7 @@
-// you can change config here
-$theme-color: #096dd9;
+// 默认颜色
+// $theme-color: #096dd9;
+// 不同模式颜色切换
+$theme-color: (
+  light: rgb(59, 186, 129),
+  dark: #fb9b5f
+);

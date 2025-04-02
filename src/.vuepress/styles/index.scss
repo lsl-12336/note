@@ -1,1 +1,9 @@
 // place your custom styles here
+
+.vp-hero-image {
+  border-radius: 50% !important;
+  overflow: hidden;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}

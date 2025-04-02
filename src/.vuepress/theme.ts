@@ -1,10 +1,11 @@
 import { hopeTheme } from "vuepress-theme-hope";
-
+// 导入图标
 import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
   hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
+// 添加图标配置
 
   author: {
     name: "Mr.Hope",
@@ -25,7 +26,9 @@ export default hopeTheme({
       // sidebar
       sidebar: enSidebar,
 
-      footer: "Default footer",
+      // footer: "Default footer",
+      footer: "LuCode",
+      copyright: "Copyright © 2024",
 
       displayFooter: true,
 
@@ -44,8 +47,8 @@ export default hopeTheme({
       // sidebar
       sidebar: zhSidebar,
 
-      footer: "默认页脚",
-
+      footer: "代码渌",
+      copyright: "Copyright © 2024",
       displayFooter: true,
 
       // page meta

@@ -3,29 +3,45 @@ import { navbar } from "vuepress-theme-hope";
 export const zhNavbar = navbar([
   "/zh/",
   "/zh/portfolio",
-  "/zh/demo/",
   {
-    text: "指南",
+    text: "技术",
+    icon: "code",
+    link: "/zh/technology/",  // 末尾的斜杠很重要，它会自动指向文件夹的 README.md
+  },
+  {
+    text: "摄影",
     icon: "lightbulb",
     prefix: "/zh/guide/",
     children: [
       {
-        text: "Bar",
+        text: "相机相关",
         icon: "lightbulb",
         prefix: "bar/",
-        children: ["baz", { text: "...", icon: "ellipsis", link: "" }],
+        children: ["baz", { text: "123", icon: "lightbulb", link: "" }],
       },
       {
-        text: "Foo",
+        text: "调色",
         icon: "lightbulb",
         prefix: "foo/",
-        children: ["ray", { text: "...", icon: "ellipsis", link: "" }],
+        children: ["ray", { text: "456", icon: "lightbulb", link: "" }],
       },
     ],
   },
   {
-    text: "V2 文档",
+    text: "软件教程",
     icon: "book",
-    link: "https://theme-hope.vuejs.press/zh/",
+    prefix: "/zh/software/",
+    children: [
+      {
+        text: "Mybatis",
+        icon: "lightbulb",
+        link: "1.md"
+      },
+      {
+        text: "Java",
+        icon: "lightbulb",
+        link: "2.md"
+      },
+    ],
   },
 ]);
