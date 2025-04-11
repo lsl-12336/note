@@ -1,5 +1,4 @@
 import { defineUserConfig } from "vuepress";
-
 import theme from "./theme.js";
 
 export default defineUserConfig({
@@ -17,6 +16,7 @@ export default defineUserConfig({
       description: "vuepress-theme-hope 的文档演示",
     },
   },
+
 
   theme,
 

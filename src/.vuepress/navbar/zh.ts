@@ -9,6 +9,11 @@ export const zhNavbar = navbar([
     link: "/zh/technology/",  // 末尾的斜杠很重要，它会自动指向文件夹的 README.md
   },
   {
+    text: "雅思",
+    icon: "book",
+    link: "/zh/lelts/",  // 末尾的斜杠很重要，它会自动指向文件夹的 README.md
+  },
+  {
     text: "摄影",
     icon: "lightbulb",
     prefix: "/zh/guide/",

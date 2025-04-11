@@ -8,7 +8,7 @@ export default hopeTheme({
 // 添加图标配置
 
   author: {
-    name: "Mr.Hope",
+    name: "Mr.Lu",
     url: "https://mister-hope.com",
   },
 
@@ -86,6 +86,11 @@ export default hopeTheme({
     mark: true,
     plantuml: true,
     spoiler: true,
+    chartjs: true,
+    echarts: true,
+    mermaid: true,
+    markmap: true,
+    flowchart: true,
     stylize: [
       {
         matcher: "Recommended",
