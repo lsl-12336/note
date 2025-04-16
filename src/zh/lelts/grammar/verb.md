@@ -244,11 +244,10 @@ could是can的过去式，might是may的过去式，should是shall的过去式�
 与谓语动词相对的，是不受主语限制、不表达时态和语气的动词，这些动词称为 **非谓语动词（非限定性动词）**。它们不能做谓语，但可以做句子中的其他成分，比如主语、宾语、定语、状语、表语等。
 
 常见的非谓语动词形式有四种：
-- 不定式：`to eat`
-- 现在分词：`eating`
-- 过去分词：`eaten`
-- 动名词：`eating`（当名词用）
-- 
+1. 不定式：`to eat`
+2. 现在分词：`eating`
+3. 过去分词：`eaten`
+4. 动名词：`eating`（当名词用） 
 ---
 
 **对比总结：**
@@ -269,6 +268,139 @@ could是can的过去式，might是may的过去式，should是shall的过去式�
 :::
 
 ### 不定式
+- **形式**：**`to`+动词原形**
+  - 如`To be or not to be, that is the question.`
+  - 有时`to`也可以省略，如 `You helped (to) me cook the carrot.`，==使役动词==后接的动词不定式的`to`可以省略。
+
+❶ **不定式作主语**
+- To eat a carrot every day is good for the rabbit.  
+  - 不定式`To eat a carrot every day`充当主语，只看`To eat`不知道是谁吃的，也不知道是过去还是现在吃的，因此是**不定式**；
+  - 谓语是`is`；
+- 转换句型（形式主语）：  
+  - It is good for the rabbit **to eat** a carrot every day.
+- 等价句（主语从句）：  
+  - It is good that the rabbit **eats a carrot** every day.
+
+❷ **不定式作宾语**
+
+- The rabbit likes **to eat** carrots.  
+  - "like" 后接不定式`to eat`作宾语。
+- it 作形式宾语
+  - I consider **the rabbit smart.**  
+    - consider 是动词，rabbit 是宾语，smart 是宾补。
+  - I consider **it important to eat a carrot every day.**  
+    - “it”为形式宾语，真正宾语是不定式结构。
+
+❸ **不定式作宾语补足语**
+
+- 不定式可以和复杂及物动词一起使用
+  - The rabbit expected the wolf **to eat a carrot.**  
+    - expect 后加宾语 the wolf，再加不定式补足语，兔子希望狼**吃胡萝卜**。
+
+❹ **感官动词 + 不定式省 to**
+
+- 常见动词：see, find, watch, have, make, let  
+  - 这些动词后面不定式通常省 to：
+  - 如：Carrots make the rabbit **feel happy.**
+
+❺ **不定式作表语**
+
+- The rabbit's dream is **to eat every kind of carrot in the world.**  
+  - 系动词is相当于 ”=“ 
+  - "is" 后的不定式作表语
+- 等价句（不定式做主语）也可转换为主语位置： ：
+  - To eat every kind of carrot in the world **is the rabbit's dream.**
+
+❻ **不定式作定语**
+- The rabbit has a lot of carrots **to eat.**  
+  - "to eat" 修饰 carrots，表示将被吃的动作。
+
+
+❼ **不定式作状语**
+
+- **表原因**：  
+I was superised **to get a thumbs-up.**  
+I was superised **because**I get a thumbs-up. *(原因状语从句)*
+
+- **表目的**：  
+I will do anything **to get a thumbs-up.**  
+I will do anything **in order** that I get a thumbs-up. *(目的状语从句)*
+
+- **表结果**： 
+I got enough thumbs-up **to made another video.**  
+I got enough thumbs-up, **so that** I made another video. *(结果状语从句)*
+
+
+❽ 高级不定式结构（把不定式和状态结合---> to + 助动词 + 谓语动词的状态）
+
+- **to be eating a carrot**  
+  → The rabbit seemed **to be eating** a carrot. （这兔子之前似乎在吃一根胡萝卜）
+
+- **to have eaten a carrot**  
+  → The rabbit will appear **to have eaten** a carrot. （这兔子在之后会看起来像是吃了一根胡萝卜）
+
+- **to have been eating a carrot**  
+  → The rabbit seemed **to have been eating** a carrot. （一直在吃，强调过程）
+
+### 动名词
+
+- **动名词基本形式**  
+  - 形式：动词原形 + ing  
+  - 本质：相当于名词  
+
+❶ **作主语**  
+ - 原句：`Carrots are healthy for the rabbit.`  
+ - 转换：`Eating carrots is healthy for the rabbit.`  
+
+❷ **作主语补语（表语）**  
+   - 结构：主语 + 系动词 + 动名词  
+   - 示例：  
+     `The rabbit's hobby is growing carrots.`  
+     `Seeing is believing.`（眼见为实）  
+
+❸ **作定语**  
+   - 特点：表示用途  
+   - 示例：  
+     `a sleeping pill` = `a pill for sleeping`  
+
+❹ **作宾语**  
+   - 示例：  
+     `The rabbit likes eating carrots.`  
+
+- **特殊动词列表**  
+以下动词**只能用动名词作宾语**：  
+✅ enjoy | avoid | advise | consider | escape  
+✅ mind | practice | insist on | give up  
+✅ feel like | put off  
+
+**示例**：`The rabbit enjoys eating carrots.`  
+
+
+❺ **介词 + 动名词结构**  
+⭐️ **核心语法点**  
+- 示例1：  
+  `The rabbit is fond of eating carrots.`  
+  （介词 `of` + 动名词 `eating`）  
+- 示例2：  
+  `The rabbit is looking forward to seeing the wolf again.`  
+  （短语中的 `to` 为介词，后接动名词 `seeing`）  
+
+
+❻ **不定式与动名词对比**  
+- **stop 的差异**：  
+  ▶️ `stop to do`：停下其他事去做 ，停下来去吃 
+    `The rabbit stopped to eat a carrot.`  
+  ▶️ `stop doing`：停止正在做的事，停止吃  
+    `The rabbit stopped eating a carrot.`  
+
+- **forget/remember 的差异**：  
+  ▶️ `forget to do`：忘记要做（❌ 未做）  
+  ▶️ `forget doing`：忘记做过（✅ 已做）  
+  ▶️ `remember` 同理（结构与 `forget` 相同）  
+
+
+
+
 ### 过去分词
 ### 现在啊分词
 ### 动名词
