@@ -58,11 +58,52 @@ markmap:
                - be to
                - had better
 
-   - 非谓语动词
+    - 非谓语动词
       - **不定式**
-      - **过去分词**
-      - **现在分词**
+          - 形式：to + 动词原形
+           - 特点：
+            - **停下其他事去做**         
+          - 功能：
+            - 作主语：`To eat is necessary`
+            - 作宾语：`like to eat`
+            - 作宾补：`want sb to do`
+            - 作表语：`dream is to be`
+            - 作定语：`something to eat`
+            - 作状语：表原因/目的/结果
+
+
       - **动名词**
+          - 形式：动词+ing
+          - 特点：
+            - **停下正在做的事**
+          - 功能：
+            - 作主语：`Eating is fun`
+            - 作宾语：`enjoy eating`
+            - 作表语：`hobby is growing`
+            - 作定语：`sleeping pill`
+
+
+      - **现在分词**
+          - 形式：动词+ing
+          - 特点：
+            - **表主动进行**
+            - 无时态限制
+          - 功能：
+            - 作定语：`sleeping rabbit`
+            - 作表语：`story is interesting`
+            - 作宾补：`see sb doing`
+            - 作状语：表时间/原因等
+
+      - **过去分词**
+          - 形式：to + 动词原形  /不规则变化
+          - 特点：
+            - **表被动完成**
+            - 无时态限制
+          - 功能：
+            - 作定语：`eaten cake`
+            - 作表语：`be interested`
+            - 作宾补：`find sth done`
+            - 作状语：表条件/原因等
 ````
 ## 谓语动词
 ### 可独立作谓语的动词
@@ -267,7 +308,9 @@ could是can的过去式，might是may的过去式，should是shall的过去式�
 - 理解这个语法点，对于写出地道正确的英文句子非常重要，尤其是在英语写作和语法题中。
 :::
 
+---
 ### 不定式
+
 - **形式**：**`to`+动词原形**
   - 如`To be or not to be, that is the question.`
   - 有时`to`也可以省略，如 `You helped (to) me cook the carrot.`，==使役动词==后接的动词不定式的`to`可以省略。
@@ -341,7 +384,7 @@ I got enough thumbs-up, **so that** I made another video. *(结果状语从句)*
 
 - **to have been eating a carrot**  
   → The rabbit seemed **to have been eating** a carrot. （一直在吃，强调过程）
-
+---
 ### 动名词
 
 - **动名词基本形式**  
@@ -398,15 +441,115 @@ I got enough thumbs-up, **so that** I made another video. *(结果状语从句)*
   ▶️ `forget doing`：忘记做过（✅ 已做）  
   ▶️ `remember` 同理（结构与 `forget` 相同）  
 
+---
+### 现在分词
+
+- 不一定自带**现在**的属性
+- 相当于**形容词**  
+- 可作**副词**修饰紧随的形容词  
+  ▸ `We are having a ripping good time.` → `ripping` 表示程度（=`very`）  
+
+**核心属性**：  
+- **无时态限制**：与“现在”时间无关  
+- **暗含主动关系**：描述对象为动作发出者  
 
 
+**【语法功能与对比】**  
 
-### 过去分词
-### 现在啊分词
-### 动名词
+❶**动名词和现在分词的区别**  
+- **现在分词**（修饰状态）：  
+  `a sleeping rabbit` = `a rabbit that is sleeping`  
+  （主动动作，描述兔子的实时状态，但是没有时态限定）  
+
+- **动名词**（表用途/性质）：  
+  `a sleeping pill` = `a pill for sleeping`  
+  （说明药片的功能）  
+
+❷**作表语（主语补语）**  
+- **结构**：系动词 + 现在分词  
+- **特点**：将动词转化为形容词描述状态，**暗含主动关系**，被描述的是做出动作的人/物  
+  ▸ `The story is interesting.` ← `interest v.`  
+  ▸ `The rabbit is charming.`  
+  ▸ `The news is encouraging.` ← `encourage v.`  
+
+❸**作宾补（宾语补足语）**  
+- 现在分词作宾补，表示正在进行中，强调动作的进行状态 
+  ▶️ `The wolf saw the rabbit eating a carrot.`  
+   （现在分词强调“正在吃”的动作，狼之前看到兔子正在吃一根胡萝卜）  
+
+- 不定式作宾补，表示动作自始至终的过程，强调动作的完成
+  ▶️ `The wolf saw the rabbit eat a carrot.`  
+   （不定式强调“完整过程”已完成，狼之前看到兔子吃了根胡萝卜）  
 
 
+❹**现在分词作状语（简化从句**  
 
+**主要功能**：表时间、原因、条件、结果、让步、目的、方式和伴随情况等，如：  
+1. **时间状语**：  
+   ▸ `Hearing the news, the rabbit became excited.`  
+     → 对比从句：`When he heard the news, the rabbit became excited.`  
+
+2. **原因状语**：  
+   ▸ `Not knowing what to eat, the rabbit skipped lunch.`  
+     → 对比从句：`Because he didn't know what to eat, the rabbit skipped lunch.`  
+
+**核心优势**：简化表达（非谓语动词 > 从句）  
+
+---
+### 过去分词 
+
+📌 **核心特性**：  
+- 不表示具体时间，仅强调动作的**被动或完成状态**  
+- 构成方式：  
+  ✅ 规则动词：动词原形 + ed（如 `painted`）  
+  ✅ 不规则变化（需单独记忆）：  
+  ▸ eat → eaten | see → seen | grow → grown | tell → told | cut → cut 
+
+❶ **作形容词**  
+- **单个分词前置**：  
+  ▶ `minced carrot`（绞碎的胡萝卜）  
+  ▶ `a painted room`（粉刷过的房间）  
+  ▶ `an excited rabbit`（兴奋的兔子）  
+- **分词短语后置**：过去分词短语做定语，则要放在被修饰名词之后，即**后置定语**  
+  ▶ `The carrot cake eaten by the rabbit is delicious.`  
+    → 被兔子吃掉的胡萝卜蛋糕  
+
+❷**作主语补语（表语）**  
+- **结构**：主语 + 系动词 + 过去分词  
+- **隐含被动关系**：主语是动作接受者  
+  ▶ `The rabbit is interested in growing carrots.`  
+    → "感兴趣"是被外界影响的（被动状态） 兔子对种胡萝卜感兴趣  
+
+❸**作宾语补语**  
+- **结构**：动词 + 宾语 + 过去分词  
+- **强调宾语的状态变化**：  
+  ▶ `The rabbit found his carrot stolen.`  
+    → 发现胡萝卜被偷（被动完成）  
+
+❹**作状语**（⭐️ **重点用法**）  
+- **替代状语从句**，简化句子结构：  
+  ▶ **表地点**：  
+    `Seen from the hill, the carrot field looks beautiful.`  
+    → 从山上看（被动视角：田地“被看见”）  
+  ▶ **表原因**：  
+    `Born in a rabbit family, his only work is growing carrots.`  
+    → 因出生在兔子家庭  
+  ▶ **表条件**：  
+    `Given another chance, the rabbit would go to the wolf's party.`  
+    → 如果被给予机会  
+
+❺**独立主格结构**  
+- **构成**：名词 + 过去分词，表被动完成状态  
+  ▶ `The work finished, the rabbit went home.`  
+    → 工作被完成后（作时间状语）  
+  ▶ `The weather permitting, the rabbit will go out.`  
+    → 天气允许的话（主动用现在分词）  
+
+**【重点对比】**  
+| 结构 | 作用 | 关键区分 |  
+|------|------|----------|  
+| `现在分词` | **主动进行** | `a sleeping rabbit`（主动睡觉） |  
+| `过去分词` |**被动完成** | `an excited rabbit`（被外界影响兴奋） |  
 
 
 ::: tabs
