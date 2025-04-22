@@ -1,22 +1,22 @@
 import { navbar } from "vuepress-theme-hope";
 
 export const zhNavbar = navbar([
-  "/zh/",
-  "/zh/portfolio",
+  "/",
+  "/portfolio",
   {
     text: "技术",
     icon: "code",
-    link: "/zh/technology/",  // 末尾的斜杠很重要，它会自动指向文件夹的 README.md
+    link: "/technology/",  // 末尾的斜杠很重要，它会自动指向文件夹的 README.md
   },
   {
     text: "雅思",
     icon: "book",
-    link: "/zh/lelts/",  // 末尾的斜杠很重要，它会自动指向文件夹的 README.md
+    link: "/lelts/",  // 末尾的斜杠很重要，它会自动指向文件夹的 README.md
   },
   {
     text: "摄影",
     icon: "lightbulb",
-    prefix: "/zh/guide/",
+    prefix: "/guide/",
     children: [
       {
         text: "相机相关",
@@ -35,7 +35,7 @@ export const zhNavbar = navbar([
   {
     text: "软件教程",
     icon: "book",
-    prefix: "/zh/software/",
+    prefix: "/software/",
     children: [
       {
         text: "Mybatis",

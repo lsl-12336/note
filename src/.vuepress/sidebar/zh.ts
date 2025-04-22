@@ -3,7 +3,7 @@ import { sidebar } from "vuepress-theme-hope";
 export const zhSidebar = sidebar({
   "" : "structure",
   "portfolio": "structure",
-  "/zh/technology/":[
+  "/technology/":[
     {
       text: "Java",
       icon: "laptop-code",
@@ -21,7 +21,7 @@ export const zhSidebar = sidebar({
       children: "structure",
     },
   ],
-  "/zh/lelts/": [
+  "/lelts/": [
 
     {
       text: "listening",
@@ -82,7 +82,7 @@ export const zhSidebar = sidebar({
   //   //   link: "https://ecosystem.vuejs.press/zh/plugins/markdown/revealjs/demo.html",
   //   // },
   // ],
-  "/zh/guide/": [
+  "/guide/": [
 
     {
       text: "文档",
