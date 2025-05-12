@@ -22,7 +22,7 @@ export const zhNavbar = navbar([
         text: "相机相关",
         icon: "lightbulb",
         prefix: "bar/",
-        children: ["baz", { text: "123", icon: "lightbulb", link: "" }],
+        children: ["巫师", { text: "123", icon: "lightbulb", link: "" }],
       },
       {
         text: "调色",
