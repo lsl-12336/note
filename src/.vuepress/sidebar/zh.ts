@@ -82,15 +82,22 @@ export const zhSidebar = sidebar({
   //   //   link: "https://ecosystem.vuejs.press/zh/plugins/markdown/revealjs/demo.html",
   //   // },
   // ],
-  "/guide/": [
+  "/photography/": [
 
     {
-      text: "文档",
+      text: "摄影后期处理教程",
       icon: "book",
-      
+      prefix: "wushi/",
       children: "structure",
+      collapsible: true,
     },
-
+    {
+      text: "调色",
+      icon: "book",
+      prefix: "shiyue/",
+      children: "structure",
+      collapsible: true,
+    },
   ],
 // "/zh/guide/": "structure",
 // [

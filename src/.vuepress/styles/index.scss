@@ -7,3 +7,33 @@
   height: 200px;
   object-fit: cover;
 }
+
+// 自定义样式
+:root {
+  --content-width: 870px !important;         // 普通内容页宽度
+  --wide-content-width: 1100px !important;   // 宽屏模式下内容宽度
+  --home-page-width: 1000px !important;      // 首页内容宽度
+
+}
+
+.theme-hope-content img {
+  max-width: 100% !important;
+  height: auto !important;
+}
+
+.theme-hope-content img[style*="inline-block"] {
+  display: inline-block !important;
+  max-width: 48% !important;
+  margin-bottom: 8px;
+} .img-row {
+  display: flex;
+  gap: 12px; /* 图片间距可调 */
+  justify-content: center;
+  margin: 12px 0;
+}
+.img-row img {
+  max-width: 48%;   /* 两张并排时不会超出内容区 */
+  height: auto;
+  display: block;
+  border-radius: 4px;
+}

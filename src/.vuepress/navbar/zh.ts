@@ -16,19 +16,19 @@ export const zhNavbar = navbar([
   {
     text: "摄影",
     icon: "lightbulb",
-    prefix: "/guide/",
+    prefix: "/photography/",
     children: [
       {
         text: "相机相关",
         icon: "lightbulb",
-        prefix: "bar/",
-        children: ["巫师", { text: "123", icon: "lightbulb", link: "" }],
+        prefix: "wushi/",
+        children: ["ps_acr", "baz"],
       },
       {
         text: "调色",
         icon: "lightbulb",
-        prefix: "foo/",
-        children: ["ray", { text: "456", icon: "lightbulb", link: "" }],
+        prefix: "shiyue/",
+        children: ["ray", ],
       },
     ],
   },
