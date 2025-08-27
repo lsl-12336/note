@@ -15,9 +15,16 @@ export const zhSidebar = sidebar({
     {
       text: "Python",
       icon: "laptop-code",
-      prefix: "demo1/",
+      prefix: "demo2/",
       collapsible: true,
       // link: "demo/",
+      children: "structure",
+    },
+    {
+      text: "LeetCode",
+      icon: "laptop-code",
+      prefix: "LeetCode/",
+      collapsible: true,
       children: "structure",
     },
   ],
