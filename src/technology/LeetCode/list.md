@@ -119,3 +119,34 @@ order: 2
               if left > right: break
           return res
     ```
+
+## 双指针
+- 通过一个快指针和慢指针在一个for循环下完成两个for循环的工作。
+  - 双指针即快慢指针，一个指针用来解决问题，另一个指针指向新的需要实现的结果
+  - 其实原理就是在能够用一个for完成两个for的事情，并且减小空间的消耗
+### 移动零
+- **思路**
+  - 用快指针找非零元素，慢指针指向新的数组
+  - 最后再nums范围内遍历慢指针，赋值0元素
+- **代码实现**
+    ```python :no-line-numbers
+        class Solution(object):
+            def moveZeroes(self, nums):
+                """
+                :type nums: List[int]
+                :rtype: None Do not return anything, modify nums in-place instead.
+                """
+                slowIndex = 0
+                for fastIndex in range(0, len(nums)):
+                    if nums[fastIndex] != 0:
+                        nums[slowIndex] = nums[fastIndex]
+                        slowIndex += 1
+                
+                for i in range(slowIndex, len(nums)):
+                    nums[slowIndex] = 0
+                    slowIndex += 1
+
+                return nums
+
+                
+    ```
